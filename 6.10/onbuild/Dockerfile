@@ -1,1 +1,2 @@
-FROM primevision-com\docker-node-win:6.10.3
+FROM docker-node-win:latest
+
